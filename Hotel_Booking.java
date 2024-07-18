@@ -1,7 +1,7 @@
 package basic;
 import java.util.Scanner;
 
-public class Hotel_Booking {
+public class  Restaurant_Ordering_System {
 	
  static	int rate,quantity,amount = 0;
  static Scanner id = new Scanner(System.in);
